@@ -5,7 +5,7 @@ Tech Stack:
 HTML5
 CSS3
 Boostrap5
-PHP8
+PHP8.2.0
 
 Function:
 Login
